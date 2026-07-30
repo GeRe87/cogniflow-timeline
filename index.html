@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Weekly development milestones from the CogniFlow project.">
+  <title>CogniFlow Development Timeline</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav shell" aria-label="Primary navigation">
+      <a class="brand" href="./" aria-label="CogniFlow timeline home">
+        <span class="brand-mark" aria-hidden="true">C</span>
+        <span>CogniFlow</span>
+      </a>
+      <a class="nav-link" href="https://github.com/odea-project/CogniFlow">Project repository</a>
+    </nav>
+
+    <div class="hero-content shell">
+      <p class="eyebrow">Development, week by week</p>
+      <h1>From semantic foundations to working research infrastructure.</h1>
+      <p class="intro">
+        A concise public record of meaningful CogniFlow development outcomes,
+        curated from ongoing engineering work.
+      </p>
+      <div class="hero-meta" aria-label="Timeline statistics">
+        <div><strong id="week-count">0</strong><span>documented weeks</span></div>
+        <div><strong id="area-count">0</strong><span>development areas</span></div>
+        <div><strong id="latest-week">—</strong><span>latest update</span></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell main-content">
+    <section class="controls" aria-labelledby="timeline-heading">
+      <div>
+        <p class="section-label">Public record</p>
+        <h2 id="timeline-heading">Development timeline</h2>
+      </div>
+      <label class="filter-label" for="area-filter">
+        Area
+        <select id="area-filter">
+          <option value="all">All areas</option>
+        </select>
+      </label>
+    </section>
+
+    <section id="status" class="status" aria-live="polite">Loading timeline…</section>
+    <section id="timeline" class="timeline" aria-label="CogniFlow weekly updates"></section>
+  </main>
+
+  <footer class="footer shell">
+    <p>CogniFlow is an open, community-driven platform for semantic data processing pipelines.</p>
+    <a href="https://github.com/odea-project/cogniflow-timeline">Timeline source</a>
+  </footer>
+</body>
+</html>
