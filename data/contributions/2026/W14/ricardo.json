@@ -1,0 +1,14 @@
+{
+  "week": "2026-W14",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-03-30",
+    "end": "2026-04-05"
+  },
+  "summary": "Ricardo added the pipeline manager and runtime API, together with interface improvements for labeling, prioritizing, and inspecting pipelines.",
+  "areas": [
+    "workflow-orchestration",
+    "application-connections",
+    "user-interface"
+  ]
+}

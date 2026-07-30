@@ -1,0 +1,14 @@
+{
+  "week": "2026-W16",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-04-13",
+    "end": "2026-04-19"
+  },
+  "summary": "Ricardo connected the web editor to run preparation and debugging and added connection selection and compatibility checks between processing steps.",
+  "areas": [
+    "user-interface",
+    "workflow-orchestration",
+    "validation"
+  ]
+}

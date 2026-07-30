@@ -1,0 +1,15 @@
+{
+  "week": "2026-W14",
+  "start": "2026-03-30",
+  "end": "2026-04-05",
+  "summary": "CogniFlow gained an embedded workspace store and runtime APIs for managing pipelines and project state. A common service interface connected the knowledge model, pipeline manager, and execution engine.",
+  "areas": [
+    "data-storage",
+    "workflow-orchestration",
+    "application-connections"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

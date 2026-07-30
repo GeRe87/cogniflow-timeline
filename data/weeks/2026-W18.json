@@ -1,0 +1,16 @@
+{
+  "week": "2026-W18",
+  "start": "2026-04-27",
+  "end": "2026-05-03",
+  "summary": "CogniFlow consolidated its setup wizard, installer, and runtime into one guided workflow. The same setup process could prepare dependencies, launch services, and manage project state through consistent service interfaces.",
+  "areas": [
+    "installation",
+    "user-interface",
+    "runtime-environment",
+    "application-connections"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

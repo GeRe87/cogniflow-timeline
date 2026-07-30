@@ -1,0 +1,14 @@
+{
+  "week": "2026-W07",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-02-09",
+    "end": "2026-02-15"
+  },
+  "summary": "Ricardo built the web pipeline editor with persistent drafts, port labels, validation feedback, and canvas interactions for composing flows.",
+  "areas": [
+    "user-interface",
+    "workflow-design",
+    "validation"
+  ]
+}

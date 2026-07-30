@@ -1,0 +1,15 @@
+{
+  "week": "2026-W18",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "summary": "Gerrit unified setup orchestration, the installer, the text-based setup interface, and runtime services behind a common guided workflow.",
+  "areas": [
+    "installation",
+    "user-interface",
+    "runtime-environment",
+    "application-connections"
+  ]
+}

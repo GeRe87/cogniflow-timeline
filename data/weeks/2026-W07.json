@@ -1,0 +1,16 @@
+{
+  "week": "2026-W07",
+  "start": "2026-02-09",
+  "end": "2026-02-15",
+  "summary": "CogniFlow gained a new pipeline engine and a web-based editor for defining and running processing flows. Session handling, package-based steps, and data-sink support established a broader runtime foundation.",
+  "areas": [
+    "workflow-orchestration",
+    "user-interface",
+    "data-processing",
+    "data-storage"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

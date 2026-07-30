@@ -1,0 +1,14 @@
+{
+  "week": "2026-W18",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "summary": "Ricardo expanded pipeline state management with registration and purge operations and improved dependency detection during setup.",
+  "areas": [
+    "workflow-orchestration",
+    "data-storage",
+    "installation"
+  ]
+}

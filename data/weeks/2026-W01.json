@@ -1,0 +1,15 @@
+{
+  "week": "2026-W01",
+  "start": "2025-12-29",
+  "end": "2026-01-04",
+  "summary": "CogniFlow could render pipeline results as reports and serve them for inspection, while the editor and runtime exchanged processing events more reliably. This made completed and running workflows easier to understand.",
+  "areas": [
+    "reporting",
+    "user-interface",
+    "workflow-orchestration"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

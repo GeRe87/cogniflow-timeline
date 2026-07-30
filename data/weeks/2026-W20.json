@@ -1,0 +1,16 @@
+{
+  "week": "2026-W20",
+  "start": "2026-05-11",
+  "end": "2026-05-17",
+  "summary": "CogniFlow gained a guided package-based installation and demo path that no longer required a local source checkout. The same path could start a packaged example using the laboratory connection service.",
+  "areas": [
+    "installation",
+    "package-distribution",
+    "user-interface",
+    "laboratory-connections"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

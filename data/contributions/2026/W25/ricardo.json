@@ -1,0 +1,15 @@
+{
+  "week": "2026-W25",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-06-15",
+    "end": "2026-06-21"
+  },
+  "summary": "CogniFlow completed a unified way to move structured objects between storage and processing components. The installer was also split into reusable modules, making setup steps easier to combine and maintain.",
+  "areas": [
+    "data-modeling",
+    "data-storage",
+    "installation",
+    "workflow-design"
+  ]
+}

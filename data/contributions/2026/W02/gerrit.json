@@ -1,0 +1,14 @@
+{
+  "week": "2026-W02",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-01-05",
+    "end": "2026-01-11"
+  },
+  "summary": "Gerrit converted pipeline examples and core processing definitions to linked data and added machine-readable descriptions for inputs, outputs, reports, and triggers.",
+  "areas": [
+    "knowledge-modeling",
+    "workflow-design",
+    "data-interoperability"
+  ]
+}

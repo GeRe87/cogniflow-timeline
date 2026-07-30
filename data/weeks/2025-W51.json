@@ -1,0 +1,16 @@
+{
+  "week": "2025-W51",
+  "start": "2025-12-15",
+  "end": "2025-12-21",
+  "summary": "CogniFlow could visualize its knowledge model and check whether processing steps and pipelines followed defined structural rules. A complete example also connected simulated instrument data to database and file outputs.",
+  "areas": [
+    "knowledge-modeling",
+    "validation",
+    "visualization",
+    "laboratory-connections"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

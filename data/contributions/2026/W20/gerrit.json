@@ -1,0 +1,14 @@
+{
+  "week": "2026-W20",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-05-11",
+    "end": "2026-05-17"
+  },
+  "summary": "Gerrit implemented and hardened the package-based installation path, including a no-source-checkout mode and checks for selecting published packages.",
+  "areas": [
+    "installation",
+    "package-distribution",
+    "validation"
+  ]
+}

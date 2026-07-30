@@ -1,0 +1,14 @@
+{
+  "week": "2026-W20",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-05-11",
+    "end": "2026-05-17"
+  },
+  "summary": "Ricardo added the native OPC UA server and discovery command-line tools used by the packaged laboratory-data demonstration.",
+  "areas": [
+    "laboratory-connections",
+    "command-line-tools",
+    "native-dependencies"
+  ]
+}

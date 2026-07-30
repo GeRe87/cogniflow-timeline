@@ -1,0 +1,15 @@
+{
+  "week": "2025-W51",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2025-12-15",
+    "end": "2025-12-21"
+  },
+  "summary": "Gerrit added reusable processing-step wrappers and an event-triggered example that moved simulated instrument data into DuckDB and Parquet outputs.",
+  "areas": [
+    "data-processing",
+    "laboratory-connections",
+    "data-storage",
+    "workflow-design"
+  ]
+}

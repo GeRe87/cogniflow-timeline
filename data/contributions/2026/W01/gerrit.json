@@ -1,0 +1,14 @@
+{
+  "week": "2026-W01",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2025-12-29",
+    "end": "2026-01-04"
+  },
+  "summary": "Gerrit added report rendering and serving, expanded command-line support, and improved event handling between pipeline execution and report generation.",
+  "areas": [
+    "reporting",
+    "command-line-tools",
+    "workflow-orchestration"
+  ]
+}

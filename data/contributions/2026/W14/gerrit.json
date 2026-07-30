@@ -1,0 +1,14 @@
+{
+  "week": "2026-W14",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-03-30",
+    "end": "2026-04-05"
+  },
+  "summary": "Gerrit added the embedded workspace store and common service interfaces connecting project definitions, pipeline management, and execution services.",
+  "areas": [
+    "data-storage",
+    "application-connections",
+    "workflow-orchestration"
+  ]
+}

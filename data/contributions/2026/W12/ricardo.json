@@ -1,0 +1,14 @@
+{
+  "week": "2026-W12",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-03-16",
+    "end": "2026-03-22"
+  },
+  "summary": "Ricardo added the runtime monitor interface and APIs, dataset views, and event observability for inspecting active and completed pipeline runs.",
+  "areas": [
+    "monitoring",
+    "user-interface",
+    "application-connections"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "week": "2026-W09",
+  "start": "2026-02-23",
+  "end": "2026-03-01",
+  "summary": "CogniFlow gained a resource-management interface and supporting service for configuring the resources used by processing flows. Data types and mappings could also be inspected and managed through the interface.",
+  "areas": [
+    "resource-management",
+    "user-interface",
+    "data-modeling"
+  ],
+  "contributors": [
+    "ricardo"
+  ]
+}

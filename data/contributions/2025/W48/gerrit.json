@@ -1,0 +1,15 @@
+{
+  "week": "2025-W48",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2025-11-24",
+    "end": "2025-11-30"
+  },
+  "summary": "CogniFlow could run processing steps through both Python and compiled backends and connect them to laboratory devices and DuckDB storage. Checkpointing and SQL branching made longer data flows easier to resume and inspect.",
+  "areas": [
+    "data-processing",
+    "laboratory-connections",
+    "data-storage",
+    "runtime-environment"
+  ]
+}

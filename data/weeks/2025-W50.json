@@ -1,0 +1,14 @@
+{
+  "week": "2025-W50",
+  "start": "2025-12-08",
+  "end": "2025-12-14",
+  "summary": "CogniFlow gained its first reusable knowledge-model package for describing processing steps and pipelines. This separated shared definitions from the application and made them easier to install and reuse.",
+  "areas": [
+    "knowledge-modeling",
+    "package-management",
+    "workflow-design"
+  ],
+  "contributors": [
+    "ricardo"
+  ]
+}

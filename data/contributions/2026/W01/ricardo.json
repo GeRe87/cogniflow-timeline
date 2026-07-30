@@ -1,0 +1,13 @@
+{
+  "week": "2026-W01",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2025-12-29",
+    "end": "2026-01-04"
+  },
+  "summary": "Ricardo implemented the pipeline editor node canvas and related interaction components, giving users a clearer way to construct processing flows.",
+  "areas": [
+    "user-interface",
+    "workflow-design"
+  ]
+}

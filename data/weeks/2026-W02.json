@@ -1,0 +1,15 @@
+{
+  "week": "2026-W02",
+  "start": "2026-01-05",
+  "end": "2026-01-11",
+  "summary": "CogniFlow moved its pipeline examples and core definitions to a shared machine-readable format based on linked data. This gave different tools a consistent representation for processing steps, reports, triggers, and storage.",
+  "areas": [
+    "knowledge-modeling",
+    "workflow-design",
+    "data-interoperability"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

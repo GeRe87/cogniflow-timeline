@@ -1,0 +1,14 @@
+{
+  "week": "2026-W26",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-06-22",
+    "end": "2026-06-28"
+  },
+  "summary": "CogniFlow gained a reusable package template that combines Python, native code, structured descriptions, tests, and documentation in one starting point. This made new processing packages easier to create with a consistent structure.",
+  "areas": [
+    "package-development",
+    "developer-tooling",
+    "knowledge-modeling"
+  ]
+}

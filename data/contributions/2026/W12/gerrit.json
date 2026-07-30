@@ -1,0 +1,14 @@
+{
+  "week": "2026-W12",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-03-16",
+    "end": "2026-03-22"
+  },
+  "summary": "Gerrit added guided demo installation, staged example resources, and hardened package installation so a working processing example could be prepared more reliably.",
+  "areas": [
+    "installation",
+    "package-management",
+    "developer-tooling"
+  ]
+}

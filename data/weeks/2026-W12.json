@@ -1,0 +1,16 @@
+{
+  "week": "2026-W12",
+  "start": "2026-03-16",
+  "end": "2026-03-22",
+  "summary": "CogniFlow gained guided demo installation, a runtime monitor, and APIs for observing active pipelines. This made it easier to install a working example and inspect what happened during execution.",
+  "areas": [
+    "installation",
+    "monitoring",
+    "application-connections",
+    "user-interface"
+  ],
+  "contributors": [
+    "gerrit",
+    "ricardo"
+  ]
+}

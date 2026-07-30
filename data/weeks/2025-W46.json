@@ -1,0 +1,15 @@
+{
+  "week": "2025-W46",
+  "start": "2025-11-10",
+  "end": "2025-11-16",
+  "summary": "CogniFlow gained its first working orchestration and storage backbone, including a virtual LC–MS instrument connected through OPC UA, a common laboratory communication protocol. This established an end-to-end path from instrument-like data to managed processing results.",
+  "areas": [
+    "workflow-orchestration",
+    "laboratory-connections",
+    "data-storage",
+    "data-processing"
+  ],
+  "contributors": [
+    "gerrit"
+  ]
+}

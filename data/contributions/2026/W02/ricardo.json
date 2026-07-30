@@ -1,0 +1,14 @@
+{
+  "week": "2026-W02",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2026-01-05",
+    "end": "2026-01-11"
+  },
+  "summary": "Ricardo refactored ontology storage and generated dashboard outputs around the linked-data model, helping tools inspect the shared definitions.",
+  "areas": [
+    "knowledge-modeling",
+    "visualization",
+    "data-storage"
+  ]
+}

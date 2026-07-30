@@ -1,0 +1,15 @@
+{
+  "week": "2025-W49",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2025-12-01",
+    "end": "2025-12-07"
+  },
+  "summary": "CogniFlow gained a repeatable setup process for its native dependencies and processing backend. Step packages could also be checked before use, reducing the risk of incompatible or altered components entering a workflow.",
+  "areas": [
+    "installation",
+    "package-validation",
+    "native-dependencies",
+    "developer-tooling"
+  ]
+}

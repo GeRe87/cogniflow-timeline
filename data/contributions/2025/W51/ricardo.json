@@ -1,0 +1,14 @@
+{
+  "week": "2025-W51",
+  "author": "ricardo",
+  "source_window": {
+    "start": "2025-12-15",
+    "end": "2025-12-21"
+  },
+  "summary": "Ricardo added searchable ontology visualization and stricter structural checks for processing steps and pipelines, making the knowledge model easier to inspect and verify.",
+  "areas": [
+    "knowledge-modeling",
+    "visualization",
+    "validation"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "week": "2025-W47",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2025-11-17",
+    "end": "2025-11-23"
+  },
+  "summary": "CogniFlow gained a graphical pipeline editor connected to backend execution, together with reusable input, processing, and storage steps. Users could assemble an end-to-end flow and run it against simulated laboratory data.",
+  "areas": [
+    "user-interface",
+    "workflow-design",
+    "data-processing",
+    "data-storage"
+  ]
+}
