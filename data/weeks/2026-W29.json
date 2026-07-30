@@ -1,0 +1,16 @@
+{
+  "week": "2026-W29",
+  "start": "2026-07-13",
+  "end": "2026-07-19",
+  "summary": "CogniFlow gained a structured installation process that can assemble the required software from either a development checkout or published packages and place it in a separate, repeatable environment. It can also provide the required Java and Fuseki tools and package the connection layer used by applications and AI assistants on Windows and Linux.",
+  "areas": [
+    "installation",
+    "package-sources",
+    "managed-tools",
+    "application-connections",
+    "cross-platform"
+  ],
+  "contributors": [
+    "gerrit"
+  ]
+}
