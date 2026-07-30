@@ -1,0 +1,15 @@
+{
+  "week": "2026-W30",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-07-20",
+    "end": "2026-07-26"
+  },
+  "summary": "CogniFlow reorganized its integration architecture around a bounded workspace store whose operations are exposed through explicit semantic affordances. The installation layer gained declarative profiles and capability-based artifact selection, allowing component sets to be assembled for different runtime needs.",
+  "areas": [
+    "workspace-store",
+    "semantic-affordances",
+    "installation-profiles",
+    "artifact-selection"
+  ]
+}
