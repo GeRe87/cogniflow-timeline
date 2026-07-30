@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W26",
+    "start":  "2026-06-22",
+    "end":  "2026-06-28",
+    "summary":  "CogniFlow updated setup workflows and established an initial package-template baseline for the later stonecastle development line.",
+    "areas":  [
+                  "installation",
+                  "workflow-design",
+                  "package-management"
+              ],
+    "contributors":  [
+                         "ricardo"
+                     ]
+}

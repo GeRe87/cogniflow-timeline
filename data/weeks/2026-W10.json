@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W10",
+    "start":  "2026-03-02",
+    "end":  "2026-03-08",
+    "summary":  "CogniFlow introduced a task feedback loop and an initial type registry, improving typed data handling and quality feedback during workflow construction.",
+    "areas":  [
+                  "workflow-orchestration",
+                  "data-processing",
+                  "developer-tooling"
+              ],
+    "contributors":  [
+                         "gerrit"
+                     ]
+}

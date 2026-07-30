@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W08",
+    "author":  "gerrit",
+    "source_window":  {
+                          "start":  "2026-02-16",
+                          "end":  "2026-02-22"
+                      },
+    "summary":  "CogniFlow simplified invocation authoring patterns and added stronger Windows preflight publishing checks, making release workflows more repeatable.",
+    "areas":  [
+                  "developer-tooling",
+                  "installation",
+                  "quality-assurance"
+              ]
+}

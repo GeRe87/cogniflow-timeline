@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W02",
+    "author":  "gerrit",
+    "source_window":  {
+                          "start":  "2026-01-05",
+                          "end":  "2026-01-11"
+                      },
+    "summary":  "CogniFlow expanded JSON-LD based pipeline examples and ontology outputs, providing a clearer semantic baseline for building and testing processing flows.",
+    "areas":  [
+                  "knowledge-modeling",
+                  "data-processing",
+                  "examples"
+              ]
+}

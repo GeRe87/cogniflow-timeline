@@ -1,0 +1,15 @@
+{
+    "week":  "2026-W20",
+    "start":  "2026-05-11",
+    "end":  "2026-05-17",
+    "summary":  "CogniFlow established stronger PyPI-only installation governance and added native OPC UA discovery tooling, improving reproducible external runtime demonstrations.",
+    "areas":  [
+                  "installation",
+                  "release-engineering",
+                  "laboratory-connections"
+              ],
+    "contributors":  [
+                         "gerrit",
+                         "ricardo"
+                     ]
+}

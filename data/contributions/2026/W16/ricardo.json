@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W16",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2026-04-13",
+                          "end":  "2026-04-19"
+                      },
+    "summary":  "CogniFlow improved contract-sequence visualization and semantics/workspace integration, helping teams inspect interaction order and data responsibility more clearly.",
+    "areas":  [
+                  "visualization",
+                  "knowledge-modeling",
+                  "workflow-design"
+              ]
+}

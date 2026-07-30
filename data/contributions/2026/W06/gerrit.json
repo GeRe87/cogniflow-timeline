@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W06",
+    "author":  "gerrit",
+    "source_window":  {
+                          "start":  "2026-02-02",
+                          "end":  "2026-02-08"
+                      },
+    "summary":  "CogniFlow reorganized OPC UA server integration into a clearer package layout and hardened build/install scripts, improving reliability of laboratory data ingestion setups.",
+    "areas":  [
+                  "laboratory-connections",
+                  "installation",
+                  "runtime-environment"
+              ]
+}

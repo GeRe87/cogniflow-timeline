@@ -1,0 +1,15 @@
+{
+    "week":  "2026-W12",
+    "start":  "2026-03-16",
+    "end":  "2026-03-22",
+    "summary":  "CogniFlow hardened Windows installation and publishing workflows, improving reproducibility of package builds and reducing setup failure paths.",
+    "areas":  [
+                  "installation",
+                  "release-engineering",
+                  "quality-assurance"
+              ],
+    "contributors":  [
+                         "gerrit",
+                         "ricardo"
+                     ]
+}

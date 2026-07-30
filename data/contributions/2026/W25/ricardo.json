@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W25",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2026-06-15",
+                          "end":  "2026-06-21"
+                      },
+    "summary":  "CogniFlow introduced object-storage type updates and modularized setup tooling, making object-oriented runtime preparation easier to maintain.",
+    "areas":  [
+                  "data-processing",
+                  "installation",
+                  "runtime-environment"
+              ]
+}

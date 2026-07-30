@@ -1,0 +1,16 @@
+{
+    "week":  "2025-W47",
+    "start":  "2025-11-17",
+    "end":  "2025-11-23",
+    "summary":  "CogniFlow gained an interactive pipeline editor connected to backend execution and storage sinks, so users could design and run end-to-end processing flows more directly.",
+    "areas":  [
+                  "user-interface",
+                  "workflow-design",
+                  "data-processing",
+                  "application-connections"
+              ],
+    "contributors":  [
+                         "gerrit",
+                         "ricardo"
+                     ]
+}

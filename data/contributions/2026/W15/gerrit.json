@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W15",
+    "author":  "gerrit",
+    "source_window":  {
+                          "start":  "2026-04-06",
+                          "end":  "2026-04-12"
+                      },
+    "summary":  "CogniFlow improved topic semantics and ontology-driven views, making relationships between service concepts easier to understand for continued development.",
+    "areas":  [
+                  "knowledge-modeling",
+                  "visualization",
+                  "documentation"
+              ]
+}

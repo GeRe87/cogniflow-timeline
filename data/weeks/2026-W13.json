@@ -1,0 +1,15 @@
+{
+    "week":  "2026-W13",
+    "start":  "2026-03-23",
+    "end":  "2026-03-29",
+    "summary":  "CogniFlow introduced queue-first runtime behavior with semantic token handling, making staged workflow execution and semantic context transfer more consistent.",
+    "areas":  [
+                  "runtime-environment",
+                  "knowledge-modeling",
+                  "workflow-orchestration"
+              ],
+    "contributors":  [
+                         "gerrit",
+                         "ricardo"
+                     ]
+}

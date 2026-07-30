@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W21",
+    "start":  "2026-05-18",
+    "end":  "2026-05-24",
+    "summary":  "CogniFlow introduced clearer policy-lifecycle and manifest-governance checks for installation and agent workflows, reducing configuration drift risk.",
+    "areas":  [
+                  "governance",
+                  "validation",
+                  "developer-tooling"
+              ],
+    "contributors":  [
+                         "gerrit"
+                     ]
+}

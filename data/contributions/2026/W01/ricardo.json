@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W01",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2025-12-29",
+                          "end":  "2026-01-04"
+                      },
+    "summary":  "CogniFlow added integrated report rendering and server support while tightening editor-to-runtime event handling, making processing outcomes easier to inspect.",
+    "areas":  [
+                  "reporting",
+                  "user-interface",
+                  "workflow-orchestration"
+              ]
+}

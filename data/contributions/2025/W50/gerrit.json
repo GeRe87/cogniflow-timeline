@@ -1,0 +1,14 @@
+{
+    "week":  "2025-W50",
+    "author":  "gerrit",
+    "source_window":  {
+                          "start":  "2025-12-08",
+                          "end":  "2025-12-14"
+                      },
+    "summary":  "CogniFlow introduced a first ontology package foundation and clearer command-line entry points, making semantic components easier to install and invoke.",
+    "areas":  [
+                  "knowledge-modeling",
+                  "installation",
+                  "command-line-tools"
+              ]
+}

@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W09",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2026-02-23",
+                          "end":  "2026-03-01"
+                      },
+    "summary":  "CogniFlow added a first resource-management interface and backend service scaffolding, making runtime resource handling and flow configuration more structured.",
+    "areas":  [
+                  "user-interface",
+                  "resource-management",
+                  "workflow-design"
+              ]
+}

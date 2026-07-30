@@ -1,0 +1,15 @@
+{
+    "week":  "2025-W46",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2025-11-10",
+                          "end":  "2025-11-16"
+                      },
+    "summary":  "CogniFlow introduced an initial orchestration and storage backbone with first virtual-instrument pathways, making automated laboratory-style data flow possible across processing steps.",
+    "areas":  [
+                  "workflow-orchestration",
+                  "laboratory-connections",
+                  "data-processing",
+                  "storage"
+              ]
+}

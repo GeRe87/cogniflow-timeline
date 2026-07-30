@@ -1,0 +1,13 @@
+{
+    "week":  "2026-W03",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2026-01-12",
+                          "end":  "2026-01-18"
+                      },
+    "summary":  "CogniFlow strengthened ontology constraints and processing-step validation rules, reducing ambiguity in how workflow components are declared and connected.",
+    "areas":  [
+                  "validation",
+                  "knowledge-modeling"
+              ]
+}

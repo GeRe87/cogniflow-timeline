@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W11",
+    "start":  "2026-03-09",
+    "end":  "2026-03-15",
+    "summary":  "CogniFlow improved DuckDB integration and plugin-loading behavior, reducing runtime friction and making local execution environments more dependable.",
+    "areas":  [
+                  "data-processing",
+                  "runtime-environment",
+                  "installation"
+              ],
+    "contributors":  [
+                         "gerrit"
+                     ]
+}

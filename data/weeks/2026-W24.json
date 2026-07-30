@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W24",
+    "start":  "2026-06-08",
+    "end":  "2026-06-14",
+    "summary":  "CogniFlow created an initial object-contract foundation and aligned package placement, preparing a more coherent basis for object-centric data handling.",
+    "areas":  [
+                  "data-modeling",
+                  "storage",
+                  "package-management"
+              ],
+    "contributors":  [
+                         "ricardo"
+                     ]
+}

@@ -1,0 +1,14 @@
+{
+    "week":  "2026-W17",
+    "author":  "ricardo",
+    "source_window":  {
+                          "start":  "2026-04-20",
+                          "end":  "2026-04-26"
+                      },
+    "summary":  "CogniFlow introduced a setup wizard and launcher workflow with smoke coverage, making first-run installation and validation easier to execute safely.",
+    "areas":  [
+                  "installation",
+                  "user-interface",
+                  "quality-assurance"
+              ]
+}
