@@ -1,0 +1,14 @@
+{
+  "week": "2026-W34",
+  "start": "2026-08-17",
+  "end": "2026-08-23",
+  "summary": "CogniFlow can now remove an installation cleanly and guide users through setup with an interactive terminal interface. Together, these changes make the full installation lifecycle easier to manage from setup through removal.",
+  "areas": [
+    "installation",
+    "uninstallation",
+    "user-interface"
+  ],
+  "contributors": [
+    "gerrit"
+  ]
+}
