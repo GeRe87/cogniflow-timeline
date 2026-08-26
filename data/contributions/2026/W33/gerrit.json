@@ -1,0 +1,14 @@
+{
+  "week": "2026-W33",
+  "author": "gerrit",
+  "source_window": {
+    "start": "2026-08-10",
+    "end": "2026-08-16"
+  },
+  "summary": "CogniFlow can now switch an existing installation from one setup profile to another through its setup system. This makes it easier to adapt the installed tools when requirements or use cases change.",
+  "areas": [
+    "installation",
+    "setup-profiles",
+    "adaptability"
+  ]
+}
