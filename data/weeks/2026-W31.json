@@ -1,0 +1,14 @@
+{
+  "week": "2026-W31",
+  "start": "2026-07-27",
+  "end": "2026-08-02",
+  "summary": "CogniFlow can now install the software needed for a selected setup profile through one guided setup process. This makes profile-based installations more consistent and reduces manual setup steps.",
+  "areas": [
+    "installation",
+    "setup-profiles",
+    "usability"
+  ],
+  "contributors": [
+    "gerrit"
+  ]
+}
